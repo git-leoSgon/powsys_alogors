@@ -8,7 +8,7 @@ from scipy.optimize import fsolve
 
 # index: useful to set the number of outputs
 #     1: X found
-#     2: || and status (1: converged // 0: iterations limited // -2: did not converge)
+#     2: || and status (1: converged // 0: iterations limited // -1: did not converge)
 #     3: || and iterations
 #     4: || and jacobian matrix at the last iteration
 
