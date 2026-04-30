@@ -1,4 +1,4 @@
 # powsys_alogors
-Here is an environment containing algorithms widely used in studies and analyses of electrical networks in power systems, developed by an electrical engineering student at the Federal University of Juiz de Fora (Ufjf). They are easy to understand and have a simple structure for user modifications.
+Here is an environment containing algorithms and data widely used in studies and analyses of electrical networks in power systems, developed by an electrical engineering at the Federal University of Juiz de Fora (Ufjf). They are easy to understand and have a simple structure for users modifications.
 
-The content includes: algorithms for solving nonlinear systems of equations (Newton's Method), DC Power Flow (coming soon), AC Power Flow (Coupled and Fast Uncoupled, coming soon) and Optimal Power Flow linear and nonlinear (AC-OPF and DC-OPF, coming soon).
+Until now, the content includes only algorithms for solving nonlinear systems of equations (Newton's Method) and a real brazillian equivalent system for power flow studies.
